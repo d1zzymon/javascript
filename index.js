@@ -1,8 +1,4 @@
-var message = "Hello Coding";
-let msg1 = "Hallo";
+var angka =[3,4,5,6,7];
 
-const msg2 = "Coding"
 
-msg3 = "Selamat"
-
-console.log(msg3)
+console.log(angka[0]);
