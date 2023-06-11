@@ -19,3 +19,7 @@ console.log(tinggi);
 console.log(kosong);
 console.log(angka[0]);
 console.log(undifined);
+
+// membuat 5 tipe data number,string,boolean,null atau undifined dan array
+// input masing" tipe data dengan variabel yang  berbeda
+// lalu tampilkan kelima variabel dengan console.log
